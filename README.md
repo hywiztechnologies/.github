@@ -1,4 +1,4 @@
-# Hywiz Technologies
+# Hywiz Technologies 🌐
 
 Welcome to the official GitHub profile of Hywiz Technologies.
 
@@ -14,13 +14,13 @@ Welcome to the official GitHub profile of Hywiz Technologies.
 - **Graphics Design**: Crafting visually appealing designs that communicate your brand effectively.
 - **UI/UX Design**: Designing intuitive and engaging user interfaces and experiences.
 
-## Our Mission
+## Our Mission 🎯
 At Hywiz Technologies, our mission is to empower businesses by providing cutting-edge technology solutions. We strive to exceed our clients' expectations through innovation, quality, and commitment.
 
-## Get in Touch
+## Get in Touch 📧
 Collaborate with us to develop web and mobile applications that drive your business success. Contact us at [hello@hywiz.com](mailto:hello@hywiz.com) or visit our [Contact Page](https://hywiz.com/contact-us/).
 
-## Follow Us
+## Follow Us 📱
 Stay updated with our latest projects and developments:
 - [LinkedIn](https://www.linkedin.com/company/hywiz-technologies/)
 - [Facebook](https://www.facebook.com/HywizTechnologies/)
