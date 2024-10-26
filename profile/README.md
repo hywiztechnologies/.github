@@ -21,7 +21,7 @@ At Hywiz Technologies, our success is built on industry expertise, technological
 - **UI/UX Design**: Designing intuitive and engaging user interfaces and experiences.
 
 ## Get in Touch
-Visit our [Company Website](https://hywiz/). Collaborate with us to build your unique online presence with our Premium Services. Contact us at [hello@hywiz.com](mailto:hello@hywiz.com) or visit our [Contact Page](https://hywiz.com/contact-us/).
+Visit our [Company Website](https://hywiz.com). Collaborate with us to build your unique online presence with our Premium Services. Contact us at [hello@hywiz.com](mailto:hello@hywiz.com) or visit our [Contact Page](https://hywiz.com/contact-us/).
 
 ## Follow Us 📱
 Stay updated with our latest projects and developments:
