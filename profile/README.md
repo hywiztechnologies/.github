@@ -12,13 +12,13 @@ Founded with a clear mission to enable business growth and digital advancement, 
 At Hywiz Technologies, our success is built on industry expertise, technological innovation, and unwavering dedication to client satisfaction. As a trusted global partner, we remain committed to driving value, optimizing business processes, and transforming challenges into opportunities for growth.
 
 ## Our Services
-- ** Website Development & Design**: Creating responsive and dynamic websites tailored to your business needs.
-- ** WordPress Development**: Building customized WordPress websites to meet your business requirements.
-- ** Custom Software Development**: Developing robust software solutions to streamline your business processes.
-- ** Digital Marketing**: Enhancing your online presence through strategic marketing solutions. Providing services of Facebook Ads, Google Ads, YouTube Ads, SEO & SMM.
-- ** Domain and Hosting**: Providing reliable and secure domain registration and hosting services.
-- ** Graphics Design**: Crafting visually appealing designs that communicate your brand effectively.
-- ** UI/UX Design**: Designing intuitive and engaging user interfaces and experiences.
+- **Website Development & Design**: Creating responsive and dynamic websites tailored to your business needs.
+- **WordPress Development**: Building customized WordPress websites to meet your business requirements.
+- **Custom Software Development**: Developing robust software solutions to streamline your business processes.
+- **Digital Marketing**: Enhancing your online presence through strategic marketing solutions. Providing services of Facebook Ads, Google Ads, YouTube Ads, SEO & SMM.
+- **Domain and Hosting**: Providing reliable and secure domain registration and hosting services.
+- **Graphics Design**: Crafting visually appealing designs that communicate your brand effectively.
+- **UI/UX Design**: Designing intuitive and engaging user interfaces and experiences.
 
 ## Get in Touch
 Collaborate with us to develop web and mobile applications that drive your business success. Contact us at [hello@hywiz.com](mailto:hello@hywiz.com) or visit our [Contact Page](https://hywiz.com/contact-us/).
