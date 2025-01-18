@@ -21,7 +21,7 @@ At Hywiz Technologies, our success is built on industry expertise, technological
 - **UI/UX Design**: Designing intuitive and engaging user interfaces and experiences.
 
 ## Get in Touch
-Visit <a href="https://hywiz.com" rel="dofollow">Hywiz Technologies (SMC PVT.) LTD.</a> Collaborate with us to build your unique online presence with our Premium Services. Contact us at [hello@hywiz.com](mailto:hello@hywiz.com) or visit our <a href="https://hywiz.com" rel="dofollow">Contact Page</a>.
+Visit the Company Website of <a href="https://hywiz.com" rel="dofollow">Hywiz Technologies (SMC PVT.) LTD.</a> Collaborate with us to build your unique online presence with our Premium Services. Contact us at [hello@hywiz.com](mailto:hello@hywiz.com) or visit our <a href="https://hywiz.com" rel="dofollow">Contact Page</a>.
 
 ## Follow Us 📱
 Stay updated with our latest projects and developments:
